@@ -1,0 +1,20 @@
+Seaborn
+
+
+Seaborn is a statistical plotting library
+It is built on top of Matplotlib
+It has a beautiful default styles
+It also is designed to work very well with pandas dataframe objects
+
+For installation
+conda install seaborn
+pip install seaborn
+
+Seaborn is opensource and its hosted on github
+
+For documentation
+https://github.com/mwaskom/seaborn
+
+For official documentation
+stanford.edu/-mwaskom/software/seaborn
+
